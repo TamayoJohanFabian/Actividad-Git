@@ -1,0 +1,1 @@
+$("#enfermedades"). css("background", "blue"). css("color", "yellow");
